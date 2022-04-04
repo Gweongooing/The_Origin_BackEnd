@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>로또 번호 추출기</title>
+   </head>
+    <body>
+        <h1>로또 번호 추출기</h1>
+        <form action="{% url 'Result_page' %}">
+                <td><label for="lines">로또 번호를 받아보세요!</label></td>
+            <table>
+                <tr>
+                    <td><label for="lines">몇개의 게임을 뽑으시겠습니까?</label></td>
+                    <td><input id="lines" type="text" value="" name="lotto_game"></td>
+                    {{ lotto_game|default:'비었수다' }}
+                    <td><input type="submit" value="로또번호 추출하기!"></td>
+                </tr>
+            </table>
+
+            
+
+        </form>
+    </body>
+</html>
