@@ -52,7 +52,6 @@ Project Lion The Origin BackEnd course
 - 로또번호 7자리
 - 출력 화면
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ac977b1f-085d-468b-abd0-b4f27e255f3e/Untitled.png)
 
 ### 가이드
 
@@ -97,11 +96,10 @@ Project Lion The Origin BackEnd course
 
 - 입력 페이지
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e52f4176-0e20-4408-8652-1da2666ba426/Untitled.png)
+    
     
 - 결과 페이지
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09f4b8ce-42d5-4370-b12a-c38d95c88d5d/Untitled.png)
     
 
 ### 가이드
