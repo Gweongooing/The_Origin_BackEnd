@@ -12,9 +12,9 @@ Project Lion The Origin BackEnd course
   - 없음
 * 출력
   - 로또번호 6자리 출력
-'''
-   * 특
-'''
+
+   특
+
 1Week challenge Mission
 -------------
 > Lotto Number expert
